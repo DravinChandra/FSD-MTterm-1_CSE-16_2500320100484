@@ -1,0 +1,24 @@
+{
+  "name": "fsd-mtterm-1_cse-16_2500320100484",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DravinChandra/FSD-MTterm-1_CSE-16_2500320100484.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/DravinChandra/FSD-MTterm-1_CSE-16_2500320100484/issues"
+  },
+  "homepage": "https://github.com/DravinChandra/FSD-MTterm-1_CSE-16_2500320100484#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
