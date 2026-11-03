@@ -1,0 +1,15 @@
+[
+  null,
+  {
+    "id": 1,
+    "name": "Dravin",
+    "rollno": 101,
+    "course": "B.Tech CSE"
+  },
+  {
+    "id": 23,
+    "name": "shivam",
+    "rollno": 101,
+    "course": "B.Tech CSE"
+  }
+]
